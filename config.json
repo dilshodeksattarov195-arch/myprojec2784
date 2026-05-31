@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsfave",
+        "uuid": 3702720,
+        "checksum": "0dg75p"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
